@@ -1,7 +1,7 @@
 # Practical
 Practical file for boards
 
-Ok guys so this repository is crated for the uploading of the python pragramm files for the practicle of our boards (2022-23).
+Ok guys so this repository is created for the uploading of the python pragramm files for the practicle of our boards (2022-23).
 
 NOTE: Don't upload any programme before a succesfull run and also add the required module in the description of the file.
 
