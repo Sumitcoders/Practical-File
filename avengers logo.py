@@ -1,5 +1,5 @@
-import turtle
-
+import turtle.     #made with luv❤️
+                     #By Badal..
 def draw_circle(pen):
 	# outer circle
 	pen.setposition(0, -280)
