@@ -7,4 +7,4 @@ NOTE: Don't upload any programme before a succesfull run and also add the requir
 
 Hope we all get good marks in our boards.
 
-Keep coading!
+Keep coding!
