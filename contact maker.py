@@ -1,7 +1,6 @@
 # There should be an empty folder named 'contacts' in the same directry for this application to work
 
 
-
 import os
 import random
 import time
