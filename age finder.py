@@ -12,17 +12,6 @@ else:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 c_d = input('Enter the current date (i.e 10/10/2022) : ')
 
 if len(str(c_d)) == 10:
