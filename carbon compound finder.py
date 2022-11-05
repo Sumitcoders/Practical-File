@@ -22,7 +22,6 @@ H-C-C-C-C=C                      C≡C-C-C-H
 
 
 
-
 ''')
 carbon = int(input('No. of carbon in the compound: '))
 hydrogen = int(input('NO. of hydrogen in the compound: '))
