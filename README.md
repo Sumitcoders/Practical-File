@@ -13,5 +13,7 @@ Keep coding!
 - [@Sumitcoders](https://github.com/Sumitcoders/)
 - [@Divyansh-pal](https://github.com/Divyansh-pal)
 - [@H3kler](https://github.com/H3kler)
+- [@Vivekcoders](https://github.com/JustCodingWithVivek)
+- [@Badal-hasda](https://github.com/Badal-Hasda)
 
 And more...
