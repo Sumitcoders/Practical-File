@@ -8,3 +8,10 @@ NOTE: Don't upload any programme before a succesfull run and also add the requir
 Hope we all get good marks in our boards.
 
 Keep coding!
+
+## Author
+- [@Sumitcoders](https://github.com/Sumitcoders/)
+- [@Divyansh-pal](https://github.com/Divyansh-pal)
+- [@H3kler](https://github.com/H3kler)
+
+And more...
