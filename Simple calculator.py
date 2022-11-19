@@ -6,21 +6,13 @@ opt =input("Enter the operation: ")
 
 if opt=="+":
     print("Your Answer is", num1+num2)
-
 if opt=="-":
     print("Your Answer is", num1-num2)
-
 if opt=="*":
     print("Your Answer is", num1*num2)
-
 if opt=="/":
     print("Your Answer is", num1/num2)
-
 if opt=="**":
     print("Your Answer is", num1**num2)
 
 print("Thank you for using simple calculator")
-
-
-
-
