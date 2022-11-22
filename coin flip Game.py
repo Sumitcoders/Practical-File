@@ -10,10 +10,10 @@ while True:
     
     num = random.randint(1,2)
         
-    if num==1:
+    if num>0.5:
         result= "heads"
             
-    elif num==2:
+    else:
         result="tails"
         
     if choice== result:
