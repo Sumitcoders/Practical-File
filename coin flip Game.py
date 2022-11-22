@@ -4,7 +4,7 @@ while True:
     print (" \n Welcome to Coin flip Game. \n")
     print("•••••••••••••••••••••••••••••••••••••••••••••••••••••")
     print("         You just have to predict.. \n That when we toss a coin which side will come.. ")
-    print("                                 -copyrights of the Game belongs to                                                 ••| Badal °_° |•• ")
+    print("                                 -copyrights of the Game belongs to \n                                                ••| Badal °_° |•• ")
     print("•••••••••••••••••••••••••••••••••••••••••••••••••••••")
     choice = input("Enter your choice (Heads or tails ) : ")
     
