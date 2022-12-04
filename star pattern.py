@@ -1,4 +1,4 @@
-#WAP a code to create an acending star patern for a given row by the user.
+#WAPto create an acending star patern for a given row by the user.
 
 
 
