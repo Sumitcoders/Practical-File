@@ -1,21 +1,20 @@
-print("      Please choose from these...")
-print("                    ")
-print("             Yes = 1")
-print("              No = 2")
+print(" Please choose from these...")
+print("    •Yes")
+print("    •No")
 print("                         ")
 
 #space is given o4qA⁰n line 2 and 5.. 
 
-dep= int(input("  •Do you want to use the value of π in decimal ??(yes/no) :"))
+dep= input("  •Do you want to use the value of π in decimal ??(yes/no) :")
 
-if dep==1 :
+if dep.capitalize()=="Yes" :
     print("π = 3.14")
     x = 3.14
     r = float(input("Enter the Radius of the Circle: "))
     area = x*(r**2)
     print("The Area of the Circle is:",area)
     
-elif dep==2 :
+elif dep.capitalize()=="No" :
     print("π = 22/7")
     pie = 22/7
     r = float(input("Enter the Radius of the Circle: "))
