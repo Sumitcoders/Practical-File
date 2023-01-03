@@ -65,7 +65,7 @@ def result_calculation(sign_dict, player_one, player_two):
 
 
 def main():
-  print("Welcome to sunny's tic tac toe game.!!")
+  print("Welcome to Badal's tic tac toe game.!!")
   player_one = input("Enter player 1 name: ")
   player_two = input("Enter player 2 name: ")
   print(f"Thank you for joining Mr./Ms. {player_one} and Mr./Ms. {player_two}")
