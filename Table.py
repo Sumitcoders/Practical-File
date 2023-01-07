@@ -7,7 +7,7 @@ i = 1
 print("Upto which number you want to find multiples?")
 b = int(input("=>"))
 if a == 0:
-      print("0 multiplied by any number is zero mother fucker!")
+      print("0 multiplied by any number is zero !")
 elif a<0:
       print("please enter positive values")
 else:
