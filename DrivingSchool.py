@@ -17,7 +17,7 @@ if a>=7 and a <= 100:
    print(name.capitalize(),",You Are Eligible to Drive")
    print(p_2)
  elif a==18:
-    print(name.capitalize(),",Can't be Decided. Please Come To The Office Physically")
+    print(name.capitalize(),",It Can't be Decided. Please Come To The Office Physically")
     print(p_2)
  elif a<18:
     print(name.capitalize(),",You Are Not Eligible To Drive")
