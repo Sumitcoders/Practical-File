@@ -8,7 +8,7 @@ while True:
     print("•••••••••••••••••••••••••••••••••••••••••••••••••••••")
     choice = input("Enter your choice (Heads or tails ) : ")
     
-    num = random.randint(1,2)
+    num = random.randint(0,1)
         
     if num>0.5:
         result= "heads"
