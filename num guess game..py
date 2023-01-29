@@ -1,5 +1,4 @@
-print("...Guess any number between 1-10...")
-print("   ") #space given
+print("...Guess any number between 1-10... \n")
 
 import random
 n = random.randrange(1,100)
